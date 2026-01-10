@@ -6,8 +6,6 @@
 
 Pun Thai Coffee Co., Ltd. (“the Company”) values and respects your privacy and recognizes the importance of personal data protection and security in accordance with legal and international standards. This policy informs customers, partners, and related persons about how the company collects, uses, and discloses personal data.
 
-## ---
-
 **1\. Key Definitions**
 
 * **Personal Data:** Information relating to a natural person that allows for direct or indirect identification, excluding deceased persons.  
@@ -67,6 +65,6 @@ For requests or complaints, contact the **Data Protection Officer (DPO)**:
 
 * **Address:** 90 CW Tower A, 33rd Floor, Ratchadaphisek Road, Huai Khwang, Bangkok 10310\.  
 * **Phone:** 02-168-3377, 02-168-3388.  
-* **Email:** dpo@pt.co.th.  
+* **Email:** [dpo@pt.co.th](mailto:dpo@pt.co.th).  
 * **Website:** [www.ptgenergy.co.th](http://www.ptgenergy.co.th).
 
