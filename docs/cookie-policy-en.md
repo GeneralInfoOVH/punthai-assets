@@ -1,5 +1,3 @@
-# ---
-
 **Cookie Policy: Pun Thai Coffee**
 
 **Last Updated:** January 19, 2023
@@ -37,5 +35,4 @@ Additionally, you can manage cookies through the settings of your web browser or
 
 ## **4\. Cookie Policy Updates**
 
-This cookie policy may be modified or updated periodically to comply with best practices, laws, regulations, or other relevant requirements. The Company recommends that you review these updates periodically.
-
+This cookie policy may be modified or updated periodically to comply with best practices, laws, regulations, or other relevant requirements. The Company recommends that you review these updates periodically.  
