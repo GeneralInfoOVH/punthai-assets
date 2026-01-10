@@ -1,6 +1,6 @@
-#**Cookie Policy: Pun Thai Coffee**
+# **Cookie Policy: Pun Thai Coffee**
 
-#**Last Updated:** January 19, 2023
+# **Last Updated:** January 19, 2023
 
 ## **1\. What are Cookies?**
 
