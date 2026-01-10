@@ -6,7 +6,7 @@
 
 Pun Thai Coffee Co., Ltd. (“the Company”) values and respects your privacy and recognizes the importance of personal data protection and security in accordance with legal and international standards. This policy informs customers, partners, and related persons about how the company collects, uses, and discloses personal data.
 
-**1\. Key Definitions**
+## **1\. Key Definitions**
 
 * **Personal Data:** Information relating to a natural person that allows for direct or indirect identification, excluding deceased persons.  
 * **Sensitive Personal Data:** Data such as race, religion, health records, criminal history, and biological data (e.g., face recognition, fingerprints) which require explicit consent.  
